@@ -118,4 +118,3 @@ Folder `database/migrations/task10` contains migrations for countries and visito
 Test method `test_null_foreign_key()`.
 
 ---
-
